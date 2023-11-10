@@ -63,7 +63,7 @@ public class ProductDao {
        trans.commit();
 	   session.close();
 			
-			return "Products successfully saved";
+			return "Products successfully saved !!!!!!!!!!!!!!";
 		
 	
     }
